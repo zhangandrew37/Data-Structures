@@ -13,12 +13,12 @@ public class Award extends ExtracurricularActivity {
     /**
      * This is the constructor method for new extacurricular activities
      *
-     * @param name - This is the name of the extracurricular activity
-     * @param type - This is the type of extracurricular activity
-     * @param level - This is the level of the extracurricular activity
-     * @param reference - This is the reference of the extracurricular activity
-     * @param outcome - This is the outcome of the extracurricular activity
-     * @param dateAwarded - This is the date of the extracurricular activity (YYYYMMDD)
+     * @param name - This is the name of the award, inherited from the superclass ExtracurricularActivity
+     * @param type - This is the type of the award, inherited from the superclass ExtracurricularActivity
+     * @param level - This is the level of the award, inherited from the superclass ExtracurricularActivity
+     * @param reference - This is the reference of the award, inherited from the superclass ExtracurricularActivity
+     * @param outcome - This is the outcome of the award
+     * @param dateAwarded - This is the date of the award (YYYYMMDD)
      * @param eligibleForScholarship - This indicates if the award is eligible for a scholarship
      */
     public Award(String name, String type, String level, Reference reference, String outcome, int dateAwarded, boolean eligibleForScholarship) {
