@@ -40,7 +40,7 @@ public abstract class ExtracurricularActivity {
     /**
      * Getter for name field
      *
-     * @return name of the extracurricular activity
+     * @return name of the extracurricular activity as a String
      */
 
     public String getName() {
@@ -60,7 +60,7 @@ public abstract class ExtracurricularActivity {
     /**
      * Getter for type field
      *
-     * @return the type of the extracurricular activity
+     * @return the type of the extracurricular activity as a String
      */
 
     public String getType() {
@@ -80,7 +80,7 @@ public abstract class ExtracurricularActivity {
     /**
      * Getter for level field
      *
-     * @return the level of the extracurricular activity
+     * @return the level of the extracurricular activity as a String
      */
 
     public String getLevel() {
@@ -100,7 +100,7 @@ public abstract class ExtracurricularActivity {
     /**
      * Getter for reference field
      *
-     * @return the reference of the extracurricular activity
+     * @return the reference of the extracurricular activity as a Reference
      */
 
     public Reference getReference() {
