@@ -11,7 +11,7 @@ public class Award extends ExtracurricularActivity {
     private int dateAwarded;
     private boolean eligibleForScholarship;
     /**
-     * This is the constructor method for new extacurricular activities
+     * This is the constructor method for awards
      *
      * @param name - This is the name of the award, inherited from the superclass ExtracurricularActivity
      * @param type - This is the type of the award, inherited from the superclass ExtracurricularActivity
