@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /**
  * A subclass inherited from parent class ExtracurricularActivity
  *
