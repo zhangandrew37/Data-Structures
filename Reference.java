@@ -1,5 +1,5 @@
 /**
- * A class holding the firstName, lastName, phone, and email of an ExtraCurricular's Reference
+ * A class holding the firstName, lastName, phone, and email of an ExtracurricularActivity's Reference
  *
  * @author Andrew Zhang
  * @version 1.0
