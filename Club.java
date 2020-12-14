@@ -11,15 +11,15 @@ public class Club extends ExtracurricularActivity {
     private int endDate;
     private int hoursWeekly;
     /**
-     * This is the constructor method for new extacurricular activities
+     * This is the constructor method for new clubs
      *
-     * @param name - This is the name of the extracurricular activity
-     * @param type - This is the type of extracurricular activity
-     * @param level - This is the level of the extracurricular activity
-     * @param reference - This is the reference of the extracurricular activity
-     * @param startDate - This is the startDate of the extracurricular activity (YYYYMMDD)
-     * @param endDate - This is the endDate of the extracurricular activity (YYYYMMDD)
-     * @param hoursWeekly - This is the hoursWeekly of the extracurricular activity
+     * @param name - This is the name of the club, inherited from the superclass ExtracurricularActivity
+     * @param type - This is the type of club, inherited from the superclass ExtracurricularActivity
+     * @param level - This is the level of the club, inherited from the superclass ExtracurricularActivity
+     * @param reference - This is the reference of the club, inherited from the superclass ExtracurricularActivity
+     * @param startDate - This is the startDate of the club (YYYYMMDD)
+     * @param endDate - This is the endDate of the club (YYYYMMDD)
+     * @param hoursWeekly - This is the hoursWeekly of the club
      */
     public Club(String name, String type, String level, Reference reference, int startDate, int endDate, int hoursWeekly) {
         super(name, type, level, reference);
