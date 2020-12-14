@@ -89,7 +89,7 @@ public class Club extends ExtracurricularActivity {
     }
 
     /**
-     * This method converts classname@HashCode_in_Hexidecimal_form into a string representation
+     * This method represents the object as a String instead of a Hashcode value
      *
      * @return The string representation of the object
      */
