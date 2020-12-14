@@ -28,7 +28,7 @@ public class Reference {
     }
 
     /**
-     * This method converts the hash code of the object into a string representation
+     * This method represents the object as a String instead of a Hashcode value
      *
      * @return The string representation of the object
      */
